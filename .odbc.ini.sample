@@ -1,5 +1,5 @@
 [machbase]
-Driver=/home/sjkim2/machbase_home/lib/libmachbaseodbc.so
+Driver=/home/machbase/machbase_home/lib/libmachbaseodbc.so
 DBNAME=mydb
 SERVER=127.0.0.1
 PORT_NO=5656
