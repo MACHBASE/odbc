@@ -1,0 +1,10 @@
+[machbase]
+Driver=/home/machbase/machbase_home/lib/libmachbaseodbc.so
+DBNAME=mydb
+SERVER=127.0.0.1
+PORT_NO=5656
+UID=SYS
+PWD=MANAGER
+NLS_USE=UTF8
+
+
